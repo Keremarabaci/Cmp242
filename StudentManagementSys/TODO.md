@@ -1,0 +1,3 @@
+- [x] Fix _init_ to __init__ in StudentStore class
+- [x] Fix _init_ to __init__ in App class and super()._init_() to super().__init__()
+- [x] Fix _name_ and _main_ to __name__ and __main__
